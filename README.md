@@ -20,8 +20,7 @@ There are some issues with inconsistent units in the source data that required c
 
 Installation
 To use this dashboard yourself:
-
-Download the Dasboard file
+Download the Dasboard(Internal Combustion Engines In 10 Countries).pbix file
 Import into Power BI
 Load the data into the Power BI model
 Build visualizations and dashboard
